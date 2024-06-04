@@ -23,4 +23,20 @@ example:-
       <div class="col-md-4"></div>
     </div>
 
+
+   *** grid All breakpoints more details
+
+    Extra small(XS) = <576px
+    Small(SM) = ≥576px
+    Medium(MD) = ≥768px
+    Large(LG) = ≥992px
+    Extra large(EL) = ≥1200px
+
+container-max-widths (
+  sm: 540px
+  md: 720px
+  lg: 960px
+  xl: 1140px
+)
+
 ---
